@@ -1,0 +1,4 @@
+period,entity,sku,description,category,quantity,unit_cost,selling_price,cost_to_complete,cost_to_sell,ageing_days,existing_provision
+2026-08,2100,BIT-PQ-STD,PQ impregnated diamond bit,Finished goods,1450,640.0,890.0,0,42.0,95,0
+2026-08,2100,BIT-NQ-LEG,NQ bit — legacy matrix,Finished goods,880,495.0,410.0,0,30.0,540,38000
+2026-08,1100,SPR-PUMP-KIT,Mud pump rebuild kit,Spare parts,145,4250.0,0.0,0,0.0,400,0

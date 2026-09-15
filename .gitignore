@@ -1,0 +1,21 @@
+# virtualenvs
+.venv/
+venv/
+env/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# local state — the database and document vault are per-machine, never committed
+data/glcommand.db
+data/glcommand.db-wal
+data/glcommand.db-shm
+data/vault/
+
+# tooling / OS
+.claude/
+.DS_Store
+.streamlit/secrets.toml

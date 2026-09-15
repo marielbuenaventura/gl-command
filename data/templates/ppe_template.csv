@@ -1,0 +1,3 @@
+asset_no,description,entity,asset_class,cgu,acquisition_date,cost,residual_value,useful_life_m,method,total_units,units_to_date,accum_dep,status
+FA-2001,Surface core drill rig,1100,Drill rigs,North America Drilling,2024-03-15,1850000,150000,,Units of production,60000,12400,351333.33,In use
+FA-2002,Workshop building,2100,Buildings & infrastructure,APAC Products,2020-01-10,6400000,900000,480,Straight line,,,1237500.0,In use

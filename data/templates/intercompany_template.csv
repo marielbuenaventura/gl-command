@@ -1,0 +1,5 @@
+period,doc_ref,entity,counterparty,account_no,currency,amount_txn,historical_rate,posting_date,description
+2026-08,IC-5001,1100,1200,1450,USD,500000.0,1.0,2026-08-28,Management recharge
+2026-08,IC-5001,1200,1100,2100,USD,-500000.0,1.0,2026-08-28,Management recharge
+2026-08,IC-5002,2100,2200,1450,AUD,750000.0,1.561,2026-08-28,Shared services allocation
+2026-08,IC-5002,2200,2100,2100,AUD,-750000.0,1.498,2026-08-28,Shared services allocation
